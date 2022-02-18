@@ -1,0 +1,11 @@
+.qr-div {
+    text-align: center;
+
+    background-color: #efd173;
+    width: 200px;
+    padding: 10px;
+    border: 2px solid white;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+}
